@@ -1,1 +1,1 @@
-# grunt-deps-concant
+# grunt-deps-concat
