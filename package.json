@@ -1,5 +1,5 @@
 {
-  "name": "grunt-deps-concant",
+  "name": "grunt-deps-concat",
   "version": "0.1.0",
   "description": "Concatenate files in order based on dependencies",
   "dependencies": {
