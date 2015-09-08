@@ -1,5 +1,5 @@
 {
-  "name": "grunt-deps-concat",
+  "name": "grunt-depsconcat",
   "version": "0.1.0",
   "description": "Concatenate files in order based on dependencies",
   "dependencies": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andresz1/grunt-deps-concant.git"
+    "url": "git+https://github.com/andresz1/grunt-depsconcat.git"
   },
   "author": "Andres Alvarez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andresz1/grunt-deps-concant/issues"
+    "url": "https://github.com/andresz1/grunt-depsconcat/issues"
   },
-  "homepage": "https://github.com/andresz1/grunt-deps-concant#readme"
+  "homepage": "https://github.com/andresz1/grunt-depsconcat#readme"
 }
