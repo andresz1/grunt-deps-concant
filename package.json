@@ -1,0 +1,18 @@
+{
+  "name": "grunt-deps-concant",
+  "version": "1.0.0",
+  "description": "Concatenate files in order based on dependencies",
+  "dependencies": {
+    "serialize-deptree": "~0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresz1/grunt-deps-concant.git"
+  },
+  "author": "Andres Alvarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresz1/grunt-deps-concant/issues"
+  },
+  "homepage": "https://github.com/andresz1/grunt-deps-concant#readme"
+}
