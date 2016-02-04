@@ -1,6 +1,6 @@
 {
   "name": "grunt-depsconcat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Concatenate files in order based on dependencies",
   "dependencies": {
     "serialize-deptree": "~0.1.0"
