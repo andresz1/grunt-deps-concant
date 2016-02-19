@@ -1,5 +1,5 @@
 # grunt-depsconcat
-> Grunt plugin for concatenating files according to their declarative module definitions.
+> Grunt plugin for concatenating files in order based on dependencies.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.1`.
