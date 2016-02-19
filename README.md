@@ -69,10 +69,10 @@ grunt.initConfig({
   }
 })
 ```
-## Feedback
+### Feedback
 
-Pull requests, feature ideas and bug reports are very welcome. We highly appreciate any feedback.
+Pull requests, feature ideas and bug reports are welcome.
 
-## License
+### License
 
-MIT
+MIT.
