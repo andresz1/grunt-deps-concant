@@ -50,7 +50,7 @@ Type: `String`
 
 The regex used to name a file.
 
-### Usage Examples
+### Usage example
 The following example shows how to use the task to concatenate a group of classes in hierarchy order using [YUIDoc](http://yui.github.io/yuidoc/) syntax.
 
 ```js
